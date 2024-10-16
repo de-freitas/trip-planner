@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# **trip-planner**!
 
-## Getting Started
+### **About:**
 
-First, run the development server:
+"trip-planner" is a web application created to help you plan trips. It allows you to create a trip, invite friends, and build a detailed itinerary. You can add important links, such as hotel reservations and flights, and manage participants. The project was developed during NextLevelWeek, promoted by [Rocketseat](https://www.rocketseat.com.br/), which consists of an immersion with three free classes and lots of content. Initially, the application was built using ReactJS with TypeScript and Tailwind, specifically with Vite. Soon after, I migrated the application to Next.js.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+***
+![image](https://github.com/user-attachments/assets/1bd86d1f-2b5e-4dd2-9e1d-3eb47978ed98)
+***
+![image](https://github.com/user-attachments/assets/d0913ca6-8dd1-4561-b901-a89b6a12e43d)
+***
+![gif](https://github.com/user-attachments/assets/6e2a5b98-46a8-4a53-bf24-3b366ac899bd)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+*** 
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+_____________________________ ![thats all folks](https://github.com/de-freitas/nlw05_podcastr/assets/85907836/a983d6cb-e50f-4eee-9f05-3123ecc2a468) _____________________________
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+***
+_Note:_
+_**my most sincere thanks to the entire Rocketseat team.**_
+_In addition to their courses and subscriptions, they offer a wealth of high-quality materials that are completely free. You can check them out here >> https://biblioteca.rocketseat.com.br/_
