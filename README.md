@@ -11,7 +11,8 @@
 ![image](https://github.com/user-attachments/assets/d0913ca6-8dd1-4561-b901-a89b6a12e43d)
 ***
 ![gif](https://github.com/user-attachments/assets/6e2a5b98-46a8-4a53-bf24-3b366ac899bd)
-
+***
+app flow: https://whimsical.com/flow-SFXkmYeV4nNnj1YJybs7GS
 
 *** 
 
